@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include setup.cfg
+include pyproject.toml
+recursive-include nwo_agi *.py
+recursive-include docs *.md
