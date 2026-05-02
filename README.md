@@ -1,8 +1,12 @@
 # NWO-AGI Supercomputer 🤖🧠
 
+[![PyPI](https://img.shields.io/pypi/v/nwo-agi.svg)](https://pypi.org/project/nwo-agi/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/nwo-agi.svg)](https://pypi.org/project/nwo-agi/)
 [![GitHub](https://img.shields.io/badge/GitHub-RedCiprianPater%2Fnwo--agi-blue)](https://github.com/RedCiprianPater/nwo-agi)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
+**Latest Version: 1.0.1**
 
 **Distributed AGI system for NWO Robotics. Connect robot fleets to form a collective supercomputer capable of running large AI models, collaborative training, and swarm coordination.**
 
@@ -54,7 +58,16 @@ NWO-AGI enables robots to pool their hardware resources (GPU, CPU, RAM, sensors)
 
 ## 🚀 Quick Start
 
-### Install from GitHub
+### Install from PyPI (Recommended)
+
+```bash
+pip install nwo-agi
+```
+
+[![PyPI version](https://badge.fury.io/py/nwo-agi.svg)](https://badge.fury.io/py/nwo-agi)
+[![PyPI downloads](https://img.shields.io/pypi/dm/nwo-agi.svg)](https://pypi.org/project/nwo-agi/)
+
+### Or Install from GitHub (Development)
 
 ```bash
 # Install directly from GitHub
